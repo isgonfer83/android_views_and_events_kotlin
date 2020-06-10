@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MasVistas</string>
+    <string name="enter_number_hint">Introduce un número</string>
+    <string name="zero">0</string>
+    <string name="add_zero">Añade un 0</string>
+    <string name="result">Resultado</string>
+</resources>
